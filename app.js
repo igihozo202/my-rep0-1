@@ -7,8 +7,8 @@ const PORT = process.env.PORT || 3000;
 
 // Home page
 app.get('/', (req, res) => {
-    res.send(' to my Stock Management System! My Node.js application is running successfully.');
-    res.send(' to my Stock Management System! My Node.js application is running successfully.');
+    res.send(' to my Stock  System! My Node.js application is running successfully.');
+
 });
 
 // About page
